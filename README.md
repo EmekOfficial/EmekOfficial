@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Emek Hüseyin Sıldır</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate junior developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emekofficial&label=Profile%20views&color=0e75b6&style=flat" alt="emekofficial" /> </p>
 
-- 🔭 I’m currently working on **Frontend,Android and Unity**
+- 🔭 I’m currently working on **JavaScript and Web**
 
-- 🌱 I’m currently learning **HTML5,CSS3,BOOSTRAP5,C#,KOTLIN,UNITY**
-
-- 👯 I’m looking to collaborate on **Game Developers**
+- 🌱 I’m currently learning **JavaScript and SQL**
 
 - 🤝 I’m looking for help with **Kotlin,Android Studio,Unity and Game Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/emekhsıldır/](https://www.linkedin.com/in/emekhsıldır/)
+- 👨‍💻 All of my projects are available at https://github.com/EmekOfficial/EmekCV2
 
-- 📫 How to reach me **emek_1102@hotmail.com**
+- 📫 How to reach me **emeksildir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
