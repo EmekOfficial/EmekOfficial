@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Mobile and Game Development**
 
-- 👨‍💻 All of my projects are available at https://github.com/EmekOfficial/EmekCV2
+- 👨‍💻 All of my projects are available at [https://github.com/EmekOfficial/EmekCV2](https://emekofficial.github.io/EmekCV2/)
 
 - 📫 How to reach me **emeksildir@gmail.com**
 
